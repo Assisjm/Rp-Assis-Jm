@@ -43,7 +43,7 @@
     vertical-align: top;
     height: 5em;
  }
-button {
+ button {
             border: none;
             border-radius: 15px;
             padding: 15px 25px;
@@ -53,15 +53,15 @@ button {
             font-size: 15px;
             box-shadow: 0 10px #999;
             cursor: pointer;
-    }
+     }
 
- button:hover{
+  button:hover{
             background-color: #3e8e41;
- }
+  }
 
- button:active{
+  button:active{
             background-color: #3e8e41;
             box-shadow: 0 4px #222;
             transform: translateY(4px);
 
- }
+  }
